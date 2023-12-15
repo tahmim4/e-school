@@ -1,0 +1,66 @@
+.text-color{
+    color: green;
+}
+.orange-text{
+    color: rgb(255, 123, 0);
+}
+.btn{
+    background-color: green;
+    color: #fff;
+    border-radius: 50px;
+    padding: 2px 20px;
+}
+.container{
+    margin-bottom: 40px;
+}
+.card1{
+height: 300px;
+padding: 30px 5px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+border: none;
+border-radius: 0px 20px 0px 20px;
+box-shadow: 5px 5px 20px rgba(1,1,1,0.2);
+}
+.ico-img{
+padding: 20px;
+    width: 100px;
+}
+.ico-text{
+    width: 25px;
+}
+.date, .seats{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.course{
+    text-align: center;
+}
+.paragraph{
+    width: 500px;
+    margin-left: 40px;
+    text-align: justify;
+}
+.align{
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+}
+.useful{
+    list-style: none;
+    text-align: left;
+    font-size: small;
+    padding: 0px;
+
+}
+.footer{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.bottom-part{
+    padding-top: 30px;
+}
